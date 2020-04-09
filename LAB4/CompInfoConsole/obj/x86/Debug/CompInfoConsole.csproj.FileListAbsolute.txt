@@ -1,0 +1,12 @@
+D:\LAB4 (3)\CompInfoConsole\bin\Debug\CompInfoConsole.exe
+D:\LAB4 (3)\CompInfoConsole\bin\Debug\CompInfoConsole.pdb
+D:\LAB4 (3)\CompInfoConsole\obj\x86\Debug\CompInfoConsole.exe
+D:\LAB4 (3)\CompInfoConsole\obj\x86\Debug\CompInfoConsole.pdb
+D:\LAB4 (3)\CompInfoConsole\obj\x86\Debug\CompInfoConsole.csprojAssemblyReference.cache
+D:\LAB4 (3)\CompInfoConsole\obj\x86\Debug\CompInfoConsole.csproj.CoreCompileInputs.cache
+D:\LAB4 ISP(рабочая)\CompInfoConsole\bin\Debug\CompInfoConsole.exe
+D:\LAB4 ISP(рабочая)\CompInfoConsole\bin\Debug\CompInfoConsole.pdb
+D:\LAB4 ISP(рабочая)\CompInfoConsole\obj\x86\Debug\CompInfoConsole.csprojAssemblyReference.cache
+D:\LAB4 ISP(рабочая)\CompInfoConsole\obj\x86\Debug\CompInfoConsole.csproj.CoreCompileInputs.cache
+D:\LAB4 ISP(рабочая)\CompInfoConsole\obj\x86\Debug\CompInfoConsole.exe
+D:\LAB4 ISP(рабочая)\CompInfoConsole\obj\x86\Debug\CompInfoConsole.pdb

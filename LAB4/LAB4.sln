@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompInfoConsole", "CompInfoConsole\CompInfoConsole.csproj", "{E73F30A1-0FC4-4D9E-ABCB-D0DA202EFBA5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LibCPP", "LibCPP\LibCPP.vcxproj", "{4A2C0938-63E8-404A-8154-F6C55CCBACC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fibonacci", "fibonacci\fibonacci.csproj", "{6AF31F4D-B858-4CCA-9331-3CB6B918FA18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Debug|x86 = Debug|x86
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E939ED3-24C1-4E68-8241-933F717A048F}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{8E939ED3-24C1-4E68-8241-933F717A048F}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{8E939ED3-24C1-4E68-8241-933F717A048F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8E939ED3-24C1-4E68-8241-933F717A048F}.Debug|Win32.Build.0 = Debug|Win32
+		{8E939ED3-24C1-4E68-8241-933F717A048F}.Debug|x86.ActiveCfg = Debug|Win32
+		{8E939ED3-24C1-4E68-8241-933F717A048F}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{8E939ED3-24C1-4E68-8241-933F717A048F}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{8E939ED3-24C1-4E68-8241-933F717A048F}.Release|Win32.ActiveCfg = Release|Win32
+		{8E939ED3-24C1-4E68-8241-933F717A048F}.Release|Win32.Build.0 = Release|Win32
+		{8E939ED3-24C1-4E68-8241-933F717A048F}.Release|x86.ActiveCfg = Release|Win32
+		{E73F30A1-0FC4-4D9E-ABCB-D0DA202EFBA5}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{E73F30A1-0FC4-4D9E-ABCB-D0DA202EFBA5}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{E73F30A1-0FC4-4D9E-ABCB-D0DA202EFBA5}.Debug|Win32.ActiveCfg = Debug|x86
+		{E73F30A1-0FC4-4D9E-ABCB-D0DA202EFBA5}.Debug|x86.ActiveCfg = Debug|x86
+		{E73F30A1-0FC4-4D9E-ABCB-D0DA202EFBA5}.Debug|x86.Build.0 = Debug|x86
+		{E73F30A1-0FC4-4D9E-ABCB-D0DA202EFBA5}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{E73F30A1-0FC4-4D9E-ABCB-D0DA202EFBA5}.Release|Mixed Platforms.Build.0 = Release|x86
+		{E73F30A1-0FC4-4D9E-ABCB-D0DA202EFBA5}.Release|Win32.ActiveCfg = Release|x86
+		{E73F30A1-0FC4-4D9E-ABCB-D0DA202EFBA5}.Release|x86.ActiveCfg = Release|x86
+		{E73F30A1-0FC4-4D9E-ABCB-D0DA202EFBA5}.Release|x86.Build.0 = Release|x86
+		{4A2C0938-63E8-404A-8154-F6C55CCBACC5}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{4A2C0938-63E8-404A-8154-F6C55CCBACC5}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{4A2C0938-63E8-404A-8154-F6C55CCBACC5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4A2C0938-63E8-404A-8154-F6C55CCBACC5}.Debug|Win32.Build.0 = Debug|Win32
+		{4A2C0938-63E8-404A-8154-F6C55CCBACC5}.Debug|x86.ActiveCfg = Debug|Win32
+		{4A2C0938-63E8-404A-8154-F6C55CCBACC5}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{4A2C0938-63E8-404A-8154-F6C55CCBACC5}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{4A2C0938-63E8-404A-8154-F6C55CCBACC5}.Release|Win32.ActiveCfg = Release|Win32
+		{4A2C0938-63E8-404A-8154-F6C55CCBACC5}.Release|Win32.Build.0 = Release|Win32
+		{4A2C0938-63E8-404A-8154-F6C55CCBACC5}.Release|x86.ActiveCfg = Release|Win32
+		{6AF31F4D-B858-4CCA-9331-3CB6B918FA18}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{6AF31F4D-B858-4CCA-9331-3CB6B918FA18}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{6AF31F4D-B858-4CCA-9331-3CB6B918FA18}.Debug|Win32.ActiveCfg = Debug|x86
+		{6AF31F4D-B858-4CCA-9331-3CB6B918FA18}.Debug|x86.ActiveCfg = Debug|x86
+		{6AF31F4D-B858-4CCA-9331-3CB6B918FA18}.Debug|x86.Build.0 = Debug|x86
+		{6AF31F4D-B858-4CCA-9331-3CB6B918FA18}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{6AF31F4D-B858-4CCA-9331-3CB6B918FA18}.Release|Mixed Platforms.Build.0 = Release|x86
+		{6AF31F4D-B858-4CCA-9331-3CB6B918FA18}.Release|Win32.ActiveCfg = Release|x86
+		{6AF31F4D-B858-4CCA-9331-3CB6B918FA18}.Release|x86.ActiveCfg = Release|x86
+		{6AF31F4D-B858-4CCA-9331-3CB6B918FA18}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

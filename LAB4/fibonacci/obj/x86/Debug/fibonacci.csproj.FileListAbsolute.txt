@@ -1,0 +1,12 @@
+D:\LAB4 (3)\fibonacci\bin\Debug\fibonacci.exe
+D:\LAB4 (3)\fibonacci\bin\Debug\fibonacci.pdb
+D:\LAB4 (3)\fibonacci\obj\x86\Debug\fibonacci.csprojAssemblyReference.cache
+D:\LAB4 (3)\fibonacci\obj\x86\Debug\fibonacci.exe
+D:\LAB4 (3)\fibonacci\obj\x86\Debug\fibonacci.pdb
+D:\LAB4 (3)\fibonacci\obj\x86\Debug\fibonacci.csproj.CoreCompileInputs.cache
+D:\LAB4 ISP(рабочая)\fibonacci\bin\Debug\fibonacci.exe
+D:\LAB4 ISP(рабочая)\fibonacci\bin\Debug\fibonacci.pdb
+D:\LAB4 ISP(рабочая)\fibonacci\obj\x86\Debug\fibonacci.csprojAssemblyReference.cache
+D:\LAB4 ISP(рабочая)\fibonacci\obj\x86\Debug\fibonacci.csproj.CoreCompileInputs.cache
+D:\LAB4 ISP(рабочая)\fibonacci\obj\x86\Debug\fibonacci.exe
+D:\LAB4 ISP(рабочая)\fibonacci\obj\x86\Debug\fibonacci.pdb
