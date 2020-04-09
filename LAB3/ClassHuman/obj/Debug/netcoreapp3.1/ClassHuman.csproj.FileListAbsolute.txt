@@ -1,0 +1,13 @@
+D:\ИСП\LR3\ClassHuman\ClassHuman\bin\Debug\netcoreapp3.1\ClassHuman.exe
+D:\ИСП\LR3\ClassHuman\ClassHuman\bin\Debug\netcoreapp3.1\ClassHuman.deps.json
+D:\ИСП\LR3\ClassHuman\ClassHuman\bin\Debug\netcoreapp3.1\ClassHuman.runtimeconfig.json
+D:\ИСП\LR3\ClassHuman\ClassHuman\bin\Debug\netcoreapp3.1\ClassHuman.runtimeconfig.dev.json
+D:\ИСП\LR3\ClassHuman\ClassHuman\bin\Debug\netcoreapp3.1\ClassHuman.dll
+D:\ИСП\LR3\ClassHuman\ClassHuman\bin\Debug\netcoreapp3.1\ClassHuman.pdb
+D:\ИСП\LR3\ClassHuman\ClassHuman\obj\Debug\netcoreapp3.1\ClassHuman.csprojAssemblyReference.cache
+D:\ИСП\LR3\ClassHuman\ClassHuman\obj\Debug\netcoreapp3.1\ClassHuman.csproj.CoreCompileInputs.cache
+D:\ИСП\LR3\ClassHuman\ClassHuman\obj\Debug\netcoreapp3.1\ClassHuman.AssemblyInfoInputs.cache
+D:\ИСП\LR3\ClassHuman\ClassHuman\obj\Debug\netcoreapp3.1\ClassHuman.AssemblyInfo.cs
+D:\ИСП\LR3\ClassHuman\ClassHuman\obj\Debug\netcoreapp3.1\ClassHuman.dll
+D:\ИСП\LR3\ClassHuman\ClassHuman\obj\Debug\netcoreapp3.1\ClassHuman.pdb
+D:\ИСП\LR3\ClassHuman\ClassHuman\obj\Debug\netcoreapp3.1\ClassHuman.genruntimeconfig.cache
