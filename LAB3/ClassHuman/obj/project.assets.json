@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ИСП\\LR3\\LAB3\\ClassHuman\\LR3.csproj",
+      "projectUniqueName": "C:\\Users\\ALYONA\\Desktop\\CSharp_Laba2\\LAB3\\ClassHuman\\LR3.csproj",
       "projectName": "LR3",
-      "projectPath": "D:\\ИСП\\LR3\\LAB3\\ClassHuman\\LR3.csproj",
+      "projectPath": "C:\\Users\\ALYONA\\Desktop\\CSharp_Laba2\\LAB3\\ClassHuman\\LR3.csproj",
       "packagesPath": "C:\\Users\\ALYONA\\.nuget\\packages\\",
-      "outputPath": "D:\\ИСП\\LR3\\LAB3\\ClassHuman\\obj\\",
+      "outputPath": "C:\\Users\\ALYONA\\Desktop\\CSharp_Laba2\\LAB3\\ClassHuman\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -369,7 +369,7 @@ namespace _ИСП_ЛР3
             int len = str.Length;
             for (int i = 0; i < len; i++)
             {
-                if ((str[i] > 'А' && str[i] < 'Я') || (str[i] > 'а' && str[i] < 'я'))
+                if ((str[i] >= 'А' && str[i] <= 'Я') || (str[i] >= 'а' && str[i] <= 'я'))
                 {
                     count++;
                 }
