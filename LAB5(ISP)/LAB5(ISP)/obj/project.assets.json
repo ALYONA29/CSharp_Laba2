@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ИСП\\LAB5(ISP)\\LAB5(ISP)\\LAB5(ISP).csproj",
+      "projectUniqueName": "C:\\Users\\ALYONA\\Desktop\\CSharp_Laba2\\LAB5(ISP)\\LAB5(ISP)\\LAB5(ISP).csproj",
       "projectName": "LAB5(ISP)",
-      "projectPath": "D:\\ИСП\\LAB5(ISP)\\LAB5(ISP)\\LAB5(ISP).csproj",
+      "projectPath": "C:\\Users\\ALYONA\\Desktop\\CSharp_Laba2\\LAB5(ISP)\\LAB5(ISP)\\LAB5(ISP).csproj",
       "packagesPath": "C:\\Users\\ALYONA\\.nuget\\packages\\",
-      "outputPath": "D:\\ИСП\\LAB5(ISP)\\LAB5(ISP)\\obj\\",
+      "outputPath": "C:\\Users\\ALYONA\\Desktop\\CSharp_Laba2\\LAB5(ISP)\\LAB5(ISP)\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

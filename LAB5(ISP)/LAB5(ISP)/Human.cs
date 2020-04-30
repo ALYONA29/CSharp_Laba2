@@ -714,7 +714,7 @@ namespace _ИСП_ЛР3
             int choice;
             while (!(Int32.TryParse(inputChoice, out choice)) || choice <= 0 || choice > 4)
             {
-                Console.WriteLine("Неверный ввод курса, попробуйте снова : ");
+                Console.WriteLine("Неверный ввод, попробуйте снова : ");
                 inputChoice = Console.ReadLine();
             }
             switch (choice)
@@ -1002,7 +1002,7 @@ namespace _ИСП_ЛР3
             int choice;
             while (!(Int32.TryParse(inputChoice, out choice)) || choice <= 0 || choice > 4)
             {
-                Console.WriteLine("Неверный ввод курса, попробуйте снова : ");
+                Console.WriteLine("Неверный ввод, попробуйте снова : ");
                 inputChoice = Console.ReadLine();
             }
             switch (choice)
@@ -1289,7 +1289,7 @@ namespace _ИСП_ЛР3
             int choice;
             while (!(Int32.TryParse(inputChoice, out choice)) || choice <= 0 || choice > 4)
             {
-                Console.WriteLine("Неверный ввод курса, попробуйте снова : ");
+                Console.WriteLine("Неверный ввод, попробуйте снова : ");
                 inputChoice = Console.ReadLine();
             }
             switch (choice)
