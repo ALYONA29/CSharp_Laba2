@@ -63,15 +63,16 @@ namespace LAB5_ISP_
                             Console.WriteLine("2) Искать по курсу");
                             Console.WriteLine("3) Искать по IDE");
                             Console.WriteLine("4) Печать");
-                            Console.WriteLine("5) Выход");
+                            Console.WriteLine("5) Добавить студента");
+                            Console.WriteLine("6) Выход");
                             string chosen = Console.ReadLine();
                             int choose;
-                            while (!(Int32.TryParse(chosen, out choose)) || choose <= 0 || choose > 5)
+                            while (!(Int32.TryParse(chosen, out choose)) || choose <= 0 || choose > 6)
                             {
                                 Console.WriteLine("Неверный ввод, попробуйте снова : ");
                                 chosen = Console.ReadLine();
                             }
-                            switch(choose)
+                            switch (choose)
                             {
                                 case 1:
                                     Student.SortByAgeStud(stud, i);
@@ -105,6 +106,11 @@ namespace LAB5_ISP_
                                     }
                                     break;
                                 case 5:
+                                    stud[i] = new Student();
+                                    stud[i].Add();
+                                    i++;
+                                    break;
+                                case 6:
                                     check = true;
                                     break;
                             }
@@ -123,7 +129,7 @@ namespace LAB5_ISP_
                             Console.WriteLine("Неверный ввод, попробуйте снова : ");
                             specInput = Console.ReadLine();
                         }
-                        switch(spec)
+                        switch (spec)
                         {
                             case 1:
                                 bool check1 = false;
@@ -162,10 +168,11 @@ namespace LAB5_ISP_
                                     Console.WriteLine("3) Искать по IDE");
                                     Console.WriteLine("4) Печать");
                                     Console.WriteLine("5) Сортировать по среднему баллу");
-                                    Console.WriteLine("6) Выход");
+                                    Console.WriteLine("6) Добавить студента");
+                                    Console.WriteLine("7) Выход");
                                     string chosen1 = Console.ReadLine();
                                     int choose1;
-                                    while (!(Int32.TryParse(chosen1, out choose1)) || choose1 <= 0 || choose1 > 6)
+                                    while (!(Int32.TryParse(chosen1, out choose1)) || choose1 <= 0 || choose1 > 7)
                                     {
                                         Console.WriteLine("Неверный ввод, попробуйте снова : ");
                                         chosen1 = Console.ReadLine();
@@ -207,6 +214,14 @@ namespace LAB5_ISP_
                                             KSiS.SortByGpa(stud1, i1);
                                             break;
                                         case 6:
+                                            stud1[i1] = new KSiS();
+                                            stud[i] = new Student();
+                                            stud1[i1].Add();
+                                            stud[i] = stud1[i1];
+                                            i1++;
+                                            i++;
+                                            break;
+                                        case 7:
                                             check = true;
                                             break;
                                     }
@@ -249,10 +264,11 @@ namespace LAB5_ISP_
                                     Console.WriteLine("3) Искать по IDE");
                                     Console.WriteLine("4) Печать");
                                     Console.WriteLine("5) Сортировать по среднему баллу");
-                                    Console.WriteLine("6) Выход");
+                                    Console.WriteLine("6) Добавить студента");
+                                    Console.WriteLine("7) Выход");
                                     string chosen2 = Console.ReadLine();
                                     int choose2;
-                                    while (!(Int32.TryParse(chosen2, out choose2)) || choose2 <= 0 || choose2 > 6)
+                                    while (!(Int32.TryParse(chosen2, out choose2)) || choose2 <= 0 || choose2 > 7)
                                     {
                                         Console.WriteLine("Неверный ввод, попробуйте снова : ");
                                         chosen2 = Console.ReadLine();
@@ -294,6 +310,14 @@ namespace LAB5_ISP_
                                             FITU.SortByGpa(stud2, i2);
                                             break;
                                         case 6:
+                                            stud2[i2] = new FITU();
+                                            stud[i] = new Student();
+                                            stud2[i2].Add();
+                                            stud[i] = stud2[i2];
+                                            i++;
+                                            i2++;
+                                            break;
+                                        case 7:
                                             check2 = true;
                                             break;
                                     }
@@ -336,10 +360,11 @@ namespace LAB5_ISP_
                                     Console.WriteLine("3) Искать по IDE");
                                     Console.WriteLine("4) Печать");
                                     Console.WriteLine("5) Сортировать по среднему баллу");
-                                    Console.WriteLine("6) Выход");
+                                    Console.WriteLine("6) Добавить студента");
+                                    Console.WriteLine("7) Выход");
                                     string chosen3 = Console.ReadLine();
                                     int choose3;
-                                    while (!(Int32.TryParse(chosen3, out choose3)) || choose3 <= 0 || choose3 > 6)
+                                    while (!(Int32.TryParse(chosen3, out choose3)) || choose3 <= 0 || choose3 > 7)
                                     {
                                         Console.WriteLine("Неверный ввод, попробуйте снова : ");
                                         chosen3 = Console.ReadLine();
@@ -381,6 +406,14 @@ namespace LAB5_ISP_
                                             FRE.SortByGpa(stud3, i3);
                                             break;
                                         case 6:
+                                            stud3[i3] = new FRE();
+                                            stud[i] = new Student();
+                                            stud3[i3].Add();
+                                            stud[i] = stud3[i3];
+                                            i3++;
+                                            i++;
+                                            break;
+                                        case 7:
                                             check3 = true;
                                             break;
                                     }
