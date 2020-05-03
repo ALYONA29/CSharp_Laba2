@@ -15,7 +15,7 @@ namespace _ИСП_ЛР3
         protected decimal height;
         protected decimal weight;
         protected string pol;
-    
+
 
         public Human[] humans = new Human[50];
 
@@ -453,7 +453,7 @@ namespace _ИСП_ЛР3
             int choice;
             while (!(Int32.TryParse(inputChoice, out choice)) || choice <= 0 || choice > 3)
             {
-                Console.WriteLine("Неверный ввод курса, попробуйте снова : ");
+                Console.WriteLine("Неверный ввод, попробуйте снова : ");
                 inputChoice = Console.ReadLine();
             }
             switch (choice)
@@ -694,7 +694,7 @@ namespace _ИСП_ЛР3
             {
                 this.pol = "женский";
             }
-         
+
             this.faculty = Faculties.ФКСиС;
             Console.WriteLine("Введите курс : ");
             string choiceInputCourse = Console.ReadLine();
@@ -1034,7 +1034,7 @@ namespace _ИСП_ЛР3
             int firstChoice;
             while (!(Int32.TryParse(choiceInputGroup, out firstChoice)) || firstChoice <= 0 || firstChoice > 10)
             {
-                Console.WriteLine("Неверный ввод группы, попробуйте снова : ");
+                Console.WriteLine("Неверный ввод, попробуйте снова : ");
                 choiceInputGroup = Console.ReadLine();
             }
             current.firstSemester = firstChoice;
@@ -1043,7 +1043,7 @@ namespace _ИСП_ЛР3
             int secondChoice;
             while (!(Int32.TryParse(choiceInputGroup, out secondChoice)) || secondChoice <= 0 || secondChoice > 10)
             {
-                Console.WriteLine("Неверный ввод группы, попробуйте снова : ");
+                Console.WriteLine("Неверный ввод, попробуйте снова : ");
                 choiceInputGroup = Console.ReadLine();
             }
             current.secondSemester = secondChoice;
@@ -1321,7 +1321,7 @@ namespace _ИСП_ЛР3
             int firstChoice;
             while (!(Int32.TryParse(choiceInputGroup, out firstChoice)) || firstChoice <= 0 || firstChoice > 10)
             {
-                Console.WriteLine("Неверный ввод группы, попробуйте снова : ");
+                Console.WriteLine("Неверный ввод, попробуйте снова : ");
                 choiceInputGroup = Console.ReadLine();
             }
             current.firstSemester = firstChoice;
@@ -1330,7 +1330,7 @@ namespace _ИСП_ЛР3
             int secondChoice;
             while (!(Int32.TryParse(choiceInputGroup, out secondChoice)) || secondChoice <= 0 || secondChoice > 10)
             {
-                Console.WriteLine("Неверный ввод группы, попробуйте снова : ");
+                Console.WriteLine("Неверный ввод, попробуйте снова : ");
                 choiceInputGroup = Console.ReadLine();
             }
             current.secondSemester = secondChoice;
@@ -1407,4 +1407,3 @@ namespace _ИСП_ЛР3
         }
     }
 }
-
