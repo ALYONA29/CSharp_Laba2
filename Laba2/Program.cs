@@ -7,10 +7,10 @@ namespace Laba2
         static void Main(string[] args)
         {
             Console.WriteLine("Выберите задание : ");
-            Console.WriteLine("1) Задание 5 : ");
-            Console.WriteLine("2) Задание 10 : ");
-            Console.WriteLine("3) Задание 15 : ");
-            Console.WriteLine("4) Выход : ");
+            Console.WriteLine("1) Задание 5");
+            Console.WriteLine("2) Задание 10");
+            Console.WriteLine("3) Задание 15");
+            Console.WriteLine("4) Выход");
             int choice = Convert.ToInt32(Console.ReadLine());
             switch(choice)
             {
