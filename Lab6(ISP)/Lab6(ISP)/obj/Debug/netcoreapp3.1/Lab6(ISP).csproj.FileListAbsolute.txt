@@ -1,0 +1,13 @@
+D:\ИСП\Lab6(ISP)\Lab6(ISP)\bin\Debug\netcoreapp3.1\Lab6(ISP).exe
+D:\ИСП\Lab6(ISP)\Lab6(ISP)\bin\Debug\netcoreapp3.1\Lab6(ISP).deps.json
+D:\ИСП\Lab6(ISP)\Lab6(ISP)\bin\Debug\netcoreapp3.1\Lab6(ISP).runtimeconfig.json
+D:\ИСП\Lab6(ISP)\Lab6(ISP)\bin\Debug\netcoreapp3.1\Lab6(ISP).runtimeconfig.dev.json
+D:\ИСП\Lab6(ISP)\Lab6(ISP)\bin\Debug\netcoreapp3.1\Lab6(ISP).dll
+D:\ИСП\Lab6(ISP)\Lab6(ISP)\bin\Debug\netcoreapp3.1\Lab6(ISP).pdb
+D:\ИСП\Lab6(ISP)\Lab6(ISP)\obj\Debug\netcoreapp3.1\Lab6(ISP).csprojAssemblyReference.cache
+D:\ИСП\Lab6(ISP)\Lab6(ISP)\obj\Debug\netcoreapp3.1\Lab6(ISP).csproj.CoreCompileInputs.cache
+D:\ИСП\Lab6(ISP)\Lab6(ISP)\obj\Debug\netcoreapp3.1\Lab6(ISP).AssemblyInfoInputs.cache
+D:\ИСП\Lab6(ISP)\Lab6(ISP)\obj\Debug\netcoreapp3.1\Lab6(ISP).AssemblyInfo.cs
+D:\ИСП\Lab6(ISP)\Lab6(ISP)\obj\Debug\netcoreapp3.1\Lab6(ISP).dll
+D:\ИСП\Lab6(ISP)\Lab6(ISP)\obj\Debug\netcoreapp3.1\Lab6(ISP).pdb
+D:\ИСП\Lab6(ISP)\Lab6(ISP)\obj\Debug\netcoreapp3.1\Lab6(ISP).genruntimeconfig.cache
