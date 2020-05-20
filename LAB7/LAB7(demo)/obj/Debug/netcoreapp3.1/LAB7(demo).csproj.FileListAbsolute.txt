@@ -1,0 +1,13 @@
+D:\ИСП\LAB7(demo)\LAB7(demo)\bin\Debug\netcoreapp3.1\LAB7(demo).exe
+D:\ИСП\LAB7(demo)\LAB7(demo)\bin\Debug\netcoreapp3.1\LAB7(demo).deps.json
+D:\ИСП\LAB7(demo)\LAB7(demo)\bin\Debug\netcoreapp3.1\LAB7(demo).runtimeconfig.json
+D:\ИСП\LAB7(demo)\LAB7(demo)\bin\Debug\netcoreapp3.1\LAB7(demo).runtimeconfig.dev.json
+D:\ИСП\LAB7(demo)\LAB7(demo)\bin\Debug\netcoreapp3.1\LAB7(demo).dll
+D:\ИСП\LAB7(demo)\LAB7(demo)\bin\Debug\netcoreapp3.1\LAB7(demo).pdb
+D:\ИСП\LAB7(demo)\LAB7(demo)\obj\Debug\netcoreapp3.1\LAB7(demo).csprojAssemblyReference.cache
+D:\ИСП\LAB7(demo)\LAB7(demo)\obj\Debug\netcoreapp3.1\LAB7(demo).csproj.CoreCompileInputs.cache
+D:\ИСП\LAB7(demo)\LAB7(demo)\obj\Debug\netcoreapp3.1\LAB7(demo).AssemblyInfoInputs.cache
+D:\ИСП\LAB7(demo)\LAB7(demo)\obj\Debug\netcoreapp3.1\LAB7(demo).AssemblyInfo.cs
+D:\ИСП\LAB7(demo)\LAB7(demo)\obj\Debug\netcoreapp3.1\LAB7(demo).dll
+D:\ИСП\LAB7(demo)\LAB7(demo)\obj\Debug\netcoreapp3.1\LAB7(demo).pdb
+D:\ИСП\LAB7(demo)\LAB7(demo)\obj\Debug\netcoreapp3.1\LAB7(demo).genruntimeconfig.cache
