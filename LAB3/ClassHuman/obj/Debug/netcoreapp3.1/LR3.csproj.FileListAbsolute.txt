@@ -37,3 +37,16 @@ C:\Users\ALYONA\Desktop\CSharp_Laba2\LAB3\ClassHuman\obj\Debug\netcoreapp3.1\LR3
 C:\Users\ALYONA\Desktop\CSharp_Laba2\LAB3\ClassHuman\obj\Debug\netcoreapp3.1\LR3.dll
 C:\Users\ALYONA\Desktop\CSharp_Laba2\LAB3\ClassHuman\obj\Debug\netcoreapp3.1\LR3.pdb
 C:\Users\ALYONA\Desktop\CSharp_Laba2\LAB3\ClassHuman\obj\Debug\netcoreapp3.1\LR3.genruntimeconfig.cache
+D:\CSharp_Laba2-master (2)\CSharp_Laba2-master\LAB3\ClassHuman\bin\Debug\netcoreapp3.1\LR3.exe
+D:\CSharp_Laba2-master (2)\CSharp_Laba2-master\LAB3\ClassHuman\bin\Debug\netcoreapp3.1\LR3.deps.json
+D:\CSharp_Laba2-master (2)\CSharp_Laba2-master\LAB3\ClassHuman\bin\Debug\netcoreapp3.1\LR3.runtimeconfig.json
+D:\CSharp_Laba2-master (2)\CSharp_Laba2-master\LAB3\ClassHuman\bin\Debug\netcoreapp3.1\LR3.runtimeconfig.dev.json
+D:\CSharp_Laba2-master (2)\CSharp_Laba2-master\LAB3\ClassHuman\bin\Debug\netcoreapp3.1\LR3.dll
+D:\CSharp_Laba2-master (2)\CSharp_Laba2-master\LAB3\ClassHuman\bin\Debug\netcoreapp3.1\LR3.pdb
+D:\CSharp_Laba2-master (2)\CSharp_Laba2-master\LAB3\ClassHuman\obj\Debug\netcoreapp3.1\LR3.csprojAssemblyReference.cache
+D:\CSharp_Laba2-master (2)\CSharp_Laba2-master\LAB3\ClassHuman\obj\Debug\netcoreapp3.1\LR3.csproj.CoreCompileInputs.cache
+D:\CSharp_Laba2-master (2)\CSharp_Laba2-master\LAB3\ClassHuman\obj\Debug\netcoreapp3.1\LR3.AssemblyInfoInputs.cache
+D:\CSharp_Laba2-master (2)\CSharp_Laba2-master\LAB3\ClassHuman\obj\Debug\netcoreapp3.1\LR3.AssemblyInfo.cs
+D:\CSharp_Laba2-master (2)\CSharp_Laba2-master\LAB3\ClassHuman\obj\Debug\netcoreapp3.1\LR3.dll
+D:\CSharp_Laba2-master (2)\CSharp_Laba2-master\LAB3\ClassHuman\obj\Debug\netcoreapp3.1\LR3.pdb
+D:\CSharp_Laba2-master (2)\CSharp_Laba2-master\LAB3\ClassHuman\obj\Debug\netcoreapp3.1\LR3.genruntimeconfig.cache

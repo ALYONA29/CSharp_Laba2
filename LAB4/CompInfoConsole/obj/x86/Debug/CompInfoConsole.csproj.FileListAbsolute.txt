@@ -10,3 +10,9 @@ D:\LAB4 ISP(рабочая)\CompInfoConsole\obj\x86\Debug\CompInfoConsole.csproj
 D:\LAB4 ISP(рабочая)\CompInfoConsole\obj\x86\Debug\CompInfoConsole.csproj.CoreCompileInputs.cache
 D:\LAB4 ISP(рабочая)\CompInfoConsole\obj\x86\Debug\CompInfoConsole.exe
 D:\LAB4 ISP(рабочая)\CompInfoConsole\obj\x86\Debug\CompInfoConsole.pdb
+C:\Users\ALYONA\Desktop\CSharp_Laba2\LAB4\CompInfoConsole\bin\Debug\CompInfoConsole.exe
+C:\Users\ALYONA\Desktop\CSharp_Laba2\LAB4\CompInfoConsole\bin\Debug\CompInfoConsole.pdb
+C:\Users\ALYONA\Desktop\CSharp_Laba2\LAB4\CompInfoConsole\obj\x86\Debug\CompInfoConsole.csprojAssemblyReference.cache
+C:\Users\ALYONA\Desktop\CSharp_Laba2\LAB4\CompInfoConsole\obj\x86\Debug\CompInfoConsole.csproj.CoreCompileInputs.cache
+C:\Users\ALYONA\Desktop\CSharp_Laba2\LAB4\CompInfoConsole\obj\x86\Debug\CompInfoConsole.exe
+C:\Users\ALYONA\Desktop\CSharp_Laba2\LAB4\CompInfoConsole\obj\x86\Debug\CompInfoConsole.pdb

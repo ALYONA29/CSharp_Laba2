@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ИСП\\Lab6(ISP)\\Lab6(ISP)\\Lab6(ISP).csproj": {}
+    "D:\\CSharp_Laba2-master (2)\\CSharp_Laba2-master\\Lab6(ISP)\\Lab6(ISP)\\Lab6(ISP).csproj": {}
   },
   "projects": {
-    "D:\\ИСП\\Lab6(ISP)\\Lab6(ISP)\\Lab6(ISP).csproj": {
+    "D:\\CSharp_Laba2-master (2)\\CSharp_Laba2-master\\Lab6(ISP)\\Lab6(ISP)\\Lab6(ISP).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ИСП\\Lab6(ISP)\\Lab6(ISP)\\Lab6(ISP).csproj",
+        "projectUniqueName": "D:\\CSharp_Laba2-master (2)\\CSharp_Laba2-master\\Lab6(ISP)\\Lab6(ISP)\\Lab6(ISP).csproj",
         "projectName": "Lab6(ISP)",
-        "projectPath": "D:\\ИСП\\Lab6(ISP)\\Lab6(ISP)\\Lab6(ISP).csproj",
+        "projectPath": "D:\\CSharp_Laba2-master (2)\\CSharp_Laba2-master\\Lab6(ISP)\\Lab6(ISP)\\Lab6(ISP).csproj",
         "packagesPath": "C:\\Users\\ALYONA\\.nuget\\packages\\",
-        "outputPath": "D:\\ИСП\\Lab6(ISP)\\Lab6(ISP)\\obj\\",
+        "outputPath": "D:\\CSharp_Laba2-master (2)\\CSharp_Laba2-master\\Lab6(ISP)\\Lab6(ISP)\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

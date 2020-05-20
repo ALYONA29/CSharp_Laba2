@@ -24,3 +24,16 @@ C:\Users\ALYONA\Desktop\CSharp_Laba2\LAB5(ISP)\LAB5(ISP)\obj\Debug\netcoreapp3.1
 C:\Users\ALYONA\Desktop\CSharp_Laba2\LAB5(ISP)\LAB5(ISP)\obj\Debug\netcoreapp3.1\LAB5(ISP).dll
 C:\Users\ALYONA\Desktop\CSharp_Laba2\LAB5(ISP)\LAB5(ISP)\obj\Debug\netcoreapp3.1\LAB5(ISP).pdb
 C:\Users\ALYONA\Desktop\CSharp_Laba2\LAB5(ISP)\LAB5(ISP)\obj\Debug\netcoreapp3.1\LAB5(ISP).genruntimeconfig.cache
+D:\CSharp_Laba2-master (2)\CSharp_Laba2-master\LAB5(ISP)\LAB5(ISP)\bin\Debug\netcoreapp3.1\LAB5(ISP).exe
+D:\CSharp_Laba2-master (2)\CSharp_Laba2-master\LAB5(ISP)\LAB5(ISP)\bin\Debug\netcoreapp3.1\LAB5(ISP).deps.json
+D:\CSharp_Laba2-master (2)\CSharp_Laba2-master\LAB5(ISP)\LAB5(ISP)\bin\Debug\netcoreapp3.1\LAB5(ISP).runtimeconfig.json
+D:\CSharp_Laba2-master (2)\CSharp_Laba2-master\LAB5(ISP)\LAB5(ISP)\bin\Debug\netcoreapp3.1\LAB5(ISP).runtimeconfig.dev.json
+D:\CSharp_Laba2-master (2)\CSharp_Laba2-master\LAB5(ISP)\LAB5(ISP)\bin\Debug\netcoreapp3.1\LAB5(ISP).dll
+D:\CSharp_Laba2-master (2)\CSharp_Laba2-master\LAB5(ISP)\LAB5(ISP)\bin\Debug\netcoreapp3.1\LAB5(ISP).pdb
+D:\CSharp_Laba2-master (2)\CSharp_Laba2-master\LAB5(ISP)\LAB5(ISP)\obj\Debug\netcoreapp3.1\LAB5(ISP).csprojAssemblyReference.cache
+D:\CSharp_Laba2-master (2)\CSharp_Laba2-master\LAB5(ISP)\LAB5(ISP)\obj\Debug\netcoreapp3.1\LAB5(ISP).csproj.CoreCompileInputs.cache
+D:\CSharp_Laba2-master (2)\CSharp_Laba2-master\LAB5(ISP)\LAB5(ISP)\obj\Debug\netcoreapp3.1\LAB5(ISP).AssemblyInfoInputs.cache
+D:\CSharp_Laba2-master (2)\CSharp_Laba2-master\LAB5(ISP)\LAB5(ISP)\obj\Debug\netcoreapp3.1\LAB5(ISP).AssemblyInfo.cs
+D:\CSharp_Laba2-master (2)\CSharp_Laba2-master\LAB5(ISP)\LAB5(ISP)\obj\Debug\netcoreapp3.1\LAB5(ISP).dll
+D:\CSharp_Laba2-master (2)\CSharp_Laba2-master\LAB5(ISP)\LAB5(ISP)\obj\Debug\netcoreapp3.1\LAB5(ISP).pdb
+D:\CSharp_Laba2-master (2)\CSharp_Laba2-master\LAB5(ISP)\LAB5(ISP)\obj\Debug\netcoreapp3.1\LAB5(ISP).genruntimeconfig.cache

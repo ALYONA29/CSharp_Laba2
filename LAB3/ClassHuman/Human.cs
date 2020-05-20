@@ -278,7 +278,7 @@ namespace _ИСП_ЛР3
             int buf = deleteCheck + count;
             Console.WriteLine("Личное дело номер " + buf);
             this.ide = buf;
-            Console.WriteLine("Введите фамилию : ");
+            Console.WriteLine("Введите фамилию(на русском) : ");
             string input = Console.ReadLine();
             while(!CheckStr(input))
             {
@@ -286,7 +286,7 @@ namespace _ИСП_ЛР3
                 input = Console.ReadLine();
             }
             this.surname = input;
-            Console.WriteLine("Введите имя : ");
+            Console.WriteLine("Введите имя(на русском) : ");
             input = Console.ReadLine();
             while (!CheckStr(input))
             {
@@ -294,7 +294,7 @@ namespace _ИСП_ЛР3
                 input = Console.ReadLine();
             }
             this.name = input;
-            Console.WriteLine("Введите отчество : ");
+            Console.WriteLine("Введите отчество(на русском) : ");
             input = Console.ReadLine();
             while (!CheckStr(input))
             {

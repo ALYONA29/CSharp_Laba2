@@ -259,7 +259,7 @@ namespace Lab6_ISP_
                                             int choiceGroup;
                                             while (!(Int32.TryParse(groupInput, out choiceGroup)) || choiceGroup <= 0)
                                             {
-                                                Console.WriteLine("Неверный ввод IDE, попробуйте снова : ");
+                                                Console.WriteLine("Неверный ввод, попробуйте снова : ");
                                                 groupInput = Console.ReadLine();
                                             }
                                             stud1.FindMonitor(stud1, i1, choiceGroup);
@@ -394,7 +394,7 @@ namespace Lab6_ISP_
                                             int choiceGroup;
                                             while (!(Int32.TryParse(groupInput, out choiceGroup)) || choiceGroup <= 0)
                                             {
-                                                Console.WriteLine("Неверный ввод IDE, попробуйте снова : ");
+                                                Console.WriteLine("Неверный ввод, попробуйте снова : ");
                                                 groupInput = Console.ReadLine();
                                             }
                                             stud2.FindMonitor(stud2, i2, choiceGroup);
@@ -529,7 +529,7 @@ namespace Lab6_ISP_
                                             int choiceGroup;
                                             while (!(Int32.TryParse(groupInput, out choiceGroup)) || choiceGroup <= 0)
                                             {
-                                                Console.WriteLine("Неверный ввод IDE, попробуйте снова : ");
+                                                Console.WriteLine("Неверный ввод, попробуйте снова : ");
                                                 groupInput = Console.ReadLine();
                                             }
                                             stud3.FindMonitor(stud3, i3, choiceGroup);

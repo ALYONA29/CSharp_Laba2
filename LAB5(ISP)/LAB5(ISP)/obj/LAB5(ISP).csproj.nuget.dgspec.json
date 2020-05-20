@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ALYONA\\Desktop\\CSharp_Laba2\\LAB5(ISP)\\LAB5(ISP)\\LAB5(ISP).csproj": {}
+    "D:\\CSharp_Laba2-master (2)\\CSharp_Laba2-master\\LAB5(ISP)\\LAB5(ISP)\\LAB5(ISP).csproj": {}
   },
   "projects": {
-    "C:\\Users\\ALYONA\\Desktop\\CSharp_Laba2\\LAB5(ISP)\\LAB5(ISP)\\LAB5(ISP).csproj": {
+    "D:\\CSharp_Laba2-master (2)\\CSharp_Laba2-master\\LAB5(ISP)\\LAB5(ISP)\\LAB5(ISP).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ALYONA\\Desktop\\CSharp_Laba2\\LAB5(ISP)\\LAB5(ISP)\\LAB5(ISP).csproj",
+        "projectUniqueName": "D:\\CSharp_Laba2-master (2)\\CSharp_Laba2-master\\LAB5(ISP)\\LAB5(ISP)\\LAB5(ISP).csproj",
         "projectName": "LAB5(ISP)",
-        "projectPath": "C:\\Users\\ALYONA\\Desktop\\CSharp_Laba2\\LAB5(ISP)\\LAB5(ISP)\\LAB5(ISP).csproj",
+        "projectPath": "D:\\CSharp_Laba2-master (2)\\CSharp_Laba2-master\\LAB5(ISP)\\LAB5(ISP)\\LAB5(ISP).csproj",
         "packagesPath": "C:\\Users\\ALYONA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ALYONA\\Desktop\\CSharp_Laba2\\LAB5(ISP)\\LAB5(ISP)\\obj\\",
+        "outputPath": "D:\\CSharp_Laba2-master (2)\\CSharp_Laba2-master\\LAB5(ISP)\\LAB5(ISP)\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
